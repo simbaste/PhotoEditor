@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/stephane.mba/.gradle/daemon/8.4/org.hyperskill.photoeditor.Photo_Editor-task-mergeReleaseResources-20:/layout/activity_main.xml",
+        "source": "/Users/stephane.mba/.gradle/daemon/8.4/org.hyperskill.photoeditor.Photo_Editor-task-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.hyperskill.photoeditor.Photo_Editor-task-mergeReleaseResources-20:/layout/activity_main.xml",
+        "source": "org.hyperskill.photoeditor.Photo_Editor-task-main-22:/layout/activity_main.xml"
+    }
+]

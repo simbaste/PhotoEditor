@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="jbr-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Photo Editor/task" />
+            <option value="$PROJECT_DIR$/Topics/Coroutine builders  overview/Background notifications" />
+            <option value="$PROJECT_DIR$/Topics/Coroutine builders  overview/Blocking until done" />
+            <option value="$PROJECT_DIR$/Topics/Coroutine builders  overview/Server job" />
+            <option value="$PROJECT_DIR$/Topics/Coroutine builders  overview/Suspend" />
+            <option value="$PROJECT_DIR$/Topics/Coroutine builders  overview/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Flows/Combine multiple transformations" />
+            <option value="$PROJECT_DIR$/Topics/Flows/Terminal operators" />
+            <option value="$PROJECT_DIR$/Topics/Flows/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Flows/Transform the flow" />
+            <option value="$PROJECT_DIR$/Topics/Structured Concurrency   Cancellation/Cancel children only" />
+            <option value="$PROJECT_DIR$/Topics/Structured Concurrency   Cancellation/Children cancellation" />
+            <option value="$PROJECT_DIR$/Topics/Structured Concurrency   Cancellation/Connecting" />
+            <option value="$PROJECT_DIR$/Topics/Structured Concurrency   Cancellation/Launch all in one scope" />
+            <option value="$PROJECT_DIR$/Topics/Structured Concurrency   Cancellation/Scoped cancellation" />
+            <option value="$PROJECT_DIR$/Topics/Structured Concurrency   Cancellation/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Structured Concurrency   Cancellation/Working with a lifecycle" />
+            <option value="$PROJECT_DIR$/Topics/Suspending functions/Coroutine facts" />
+            <option value="$PROJECT_DIR$/Topics/Suspending functions/Phone a friend" />
+            <option value="$PROJECT_DIR$/Topics/Suspending functions/Please don't stop the music" />
+            <option value="$PROJECT_DIR$/Topics/Suspending functions/Practice 34166" />
+            <option value="$PROJECT_DIR$/Topics/Suspending functions/Rules of invocation" />
+            <option value="$PROJECT_DIR$/Topics/Suspending functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Сontext and Dispatchers/Catch exceptions from children" />
+            <option value="$PROJECT_DIR$/Topics/Сontext and Dispatchers/Conflicting elements" />
+            <option value="$PROJECT_DIR$/Topics/Сontext and Dispatchers/Context" />
+            <option value="$PROJECT_DIR$/Topics/Сontext and Dispatchers/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

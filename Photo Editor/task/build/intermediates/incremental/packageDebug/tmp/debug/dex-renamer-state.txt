@@ -1,0 +1,4 @@
+#Tue Mar 12 12:03:12 CET 2024
+base.0=/Users/stephane.mba/StudioProjects/Photo Editor/Photo Editor/task/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
